@@ -108,7 +108,7 @@ img {
     transform: translateY(50%)
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
     .one, .four {
         transform: translateY(0%)
     }
